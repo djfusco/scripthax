@@ -1,0 +1,183 @@
+{
+    "course_title": "Making Homemade Pasta: An Introductory Course",
+    "course_objectives": {
+        "objective": "This course aims to introduce students to the art of making homemade pasta from scratch, covering essential techniques, ingredient selection, and various pasta types. Students will gain hands-on experience and a foundational understanding of pasta-making.",
+        "goals": [
+            "Understand the history and cultural significance of pasta in Italian cuisine.",
+            "Learn the essential ingredients and tools required for pasta-making.",
+            "Develop hands-on skills in making different types of pasta dough.",
+            "Master various pasta shapes and the techniques needed to create them.",
+            "Explore pairing pasta types with appropriate sauces for enhanced culinary experiences."
+        ]
+    },
+    "units": [
+        {
+            "unit_title": "Unit 1: Introduction to Pasta-Making Basics",
+            "lessons": [
+                {
+                    "lesson_title": "Lesson 1: History of Pasta",
+                    "topics": [
+                        {
+                            "topic": "Origins of Pasta",
+                            "content": "Pasta has a rich history, with origins that many trace back to ancient China and Rome. This topic covers its journey through different cultures and how it became an Italian staple."
+                        },
+                        {
+                            "topic": "Pasta and Italian Culture",
+                            "content": "Italian culture embraces pasta as a symbol of family and tradition, making it a staple in Italian homes and restaurants alike."
+                        },
+                        {
+                            "topic": "Pasta Varieties Across Italy",
+                            "content": "Italy has diverse pasta varieties unique to each region. Students will explore how regions influence pasta shapes, ingredients, and preparation."
+                        }
+                    ]
+                },
+                {
+                    "lesson_title": "Lesson 2: Essential Ingredients",
+                    "topics": [
+                        {
+                            "topic": "Types of Flour",
+                            "content": "Understanding flour types, like semolina and 00 flour, is essential for making authentic pasta dough with the desired texture and flavor."
+                        },
+                        {
+                            "topic": "Water and Eggs",
+                            "content": "Traditional pasta relies on just flour, water, and sometimes eggs. This topic explores their roles and how they affect the dough."
+                        },
+                        {
+                            "topic": "Additional Ingredients",
+                            "content": "Discover how ingredients like herbs, squid ink, and vegetables are used to create unique pasta colors and flavors."
+                        }
+                    ]
+                },
+                {
+                    "lesson_title": "Lesson 3: Basic Pasta-Making Tools",
+                    "topics": [
+                        {
+                            "topic": "Rolling Pins and Pasta Machines",
+                            "content": "A simple rolling pin or a pasta machine is essential for creating various pasta shapes. This topic covers basic equipment and techniques."
+                        },
+                        {
+                            "topic": "Cutters and Molds",
+                            "content": "Explore the tools needed for specific pasta shapes, such as ravioli molds and cutters."
+                        },
+                        {
+                            "topic": "Mixing and Kneading Tools",
+                            "content": "Learn about the tools that make mixing and kneading pasta dough efficient and how to use them effectively."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "unit_title": "Unit 2: Making Your First Dough",
+            "lessons": [
+                {
+                    "lesson_title": "Lesson 1: Classic Egg Pasta Dough",
+                    "topics": [
+                        {
+                            "topic": "Mixing Ingredients by Hand",
+                            "content": "Discover traditional methods for combining flour and eggs to achieve a smooth dough."
+                        },
+                        {
+                            "topic": "Kneading Techniques",
+                            "content": "Learn the technique of kneading dough to the right consistency, which is crucial for successful pasta."
+                        },
+                        {
+                            "topic": "Resting the Dough",
+                            "content": "Understand the importance of letting the dough rest to ensure optimal texture and workability."
+                        }
+                    ]
+                },
+                {
+                    "lesson_title": "Lesson 2: Water-Based Pasta Dough",
+                    "topics": [
+                        {
+                            "topic": "Differences from Egg Dough",
+                            "content": "This topic contrasts water-based dough with egg dough, highlighting texture, color, and taste differences."
+                        },
+                        {
+                            "topic": "Traditional Kneading Methods",
+                            "content": "Techniques for kneading water-based dough vary, and students will learn specific approaches for different pasta types."
+                        },
+                        {
+                            "topic": "Ideal Uses of Water-Based Dough",
+                            "content": "Discover pasta shapes that are best suited to water-based dough, such as orecchiette and pici."
+                        }
+                    ]
+                },
+                {
+                    "lesson_title": "Lesson 3: Incorporating Additional Ingredients",
+                    "topics": [
+                        {
+                            "topic": "Adding Spinach for Color and Flavor",
+                            "content": "Spinach is a popular addition to pasta dough, offering both vibrant color and subtle flavor."
+                        },
+                        {
+                            "topic": "Using Beetroot for Pink Pasta",
+                            "content": "Explore how beetroot can be incorporated to create visually stunning pink pasta."
+                        },
+                        {
+                            "topic": "Experimenting with Herbs and Flavors",
+                            "content": "Herbs like basil and parsley can be mixed into the dough to add flavor and aroma."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "unit_title": "Unit 3: Rolling and Shaping Pasta",
+            "lessons": [
+                {
+                    "lesson_title": "Lesson 1: Rolling Techniques",
+                    "topics": [
+                        {
+                            "topic": "Hand Rolling Basics",
+                            "content": "Learn how to roll pasta by hand, which requires skill and patience but yields a unique texture."
+                        },
+                        {
+                            "topic": "Using a Pasta Machine",
+                            "content": "The pasta machine simplifies the rolling process and allows for consistent thickness in pasta sheets."
+                        },
+                        {
+                            "topic": "Achieving the Right Thickness",
+                            "content": "Discover tips for adjusting the thickness of pasta sheets for various pasta types and dishes."
+                        }
+                    ]
+                },
+                {
+                    "lesson_title": "Lesson 2: Basic Pasta Shapes",
+                    "topics": [
+                        {
+                            "topic": "Fettuccine and Tagliatelle",
+                            "content": "Learn techniques for creating these classic long pasta shapes that pair well with rich sauces."
+                        },
+                        {
+                            "topic": "Making Farfalle (Bow Ties)",
+                            "content": "Students will create farfalle, a playful pasta shape with a unique texture that works well in pasta salads."
+                        },
+                        {
+                            "topic": "Rolling Cavatelli by Hand",
+                            "content": "Cavatelli, a small shell-like pasta, is traditionally made by hand and perfect for hearty sauces."
+                        }
+                    ]
+                },
+                {
+                    "lesson_title": "Lesson 3: Stuffed Pasta Basics",
+                    "topics": [
+                        {
+                            "topic": "Ravioli Filling Options",
+                            "content": "Discover popular fillings like ricotta and spinach, as well as tips for creating balanced flavors."
+                        },
+                        {
+                            "topic": "Assembling Ravioli",
+                            "content": "Learn to roll, fill, and seal ravioli for a perfect stuffed pasta experience."
+                        },
+                        {
+                            "topic": "Cooking and Serving Ravioli",
+                            "content": "Techniques for cooking stuffed pasta, as well as ideas for serving with appropriate sauces."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
