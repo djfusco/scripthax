@@ -1,0 +1,39 @@
+I am a university professor.  I want to create a new introductory level course.  This course should revolve around the concepts related to
+
+Making homemade pasta
+
+I want you to create a new course for me and include the following:
+
+Course title
+Course objective
+Five course goals
+
+The first three weeks of the course to include
+
+Weeks 1, 2, and 3 Unit titles with the format ‘Unit 1: TITLE’, ‘Unit 2: TITLE’, ‘Unit 3: TITLE’
+
+Within each of the weeks, I want you to suggest three lessons for each of the units.  The format should be ‘Lesson #: LESSON TITLE’
+
+Then within each of these lessons, I want you to suggest three topics to be covered that support each lesson.  I want you to write one paragraph for each of these topics that will support that topic within that lesson.
+
+So, the format will be the following for each of the units, lessons, and topics
+Unit #: TITLE
+Lesson #: LESSON TITLE
+Topic_1 paragraph
+Topic_2 paragraph
+Topic_3 paragraph
+
+
+Once you’ve done that, I want you to create a JSON document in .json format that has all of this content in it.  Use the following output standards for each of the areas I’ve given to you:
+
+Course title should be a top level object
+Course objectives should be the next level object as a child to the course title
+The five course goals should then be the next level object as a child to the objectives
+
+Units should be a top level object
+Lessons should be the next level object under each unit
+Topic should by the next level object under each lesson
+
+Complete this task and create the JSON document when you’re done.  The name of the JSON document should be newaicourse.json
+
+use this as a template - { "course_title": "Introduction to Sushi Making", "course_objectives": { "objective": "To introduce students to the art of sushi making, focusing on its cultural roots, fundamental techniques, and the skills required to create traditional and contemporary sushi dishes with confidence and authenticity.", "goals": [ "Understand sushi's historical and cultural context.", "Identify and prepare essential ingredients for sushi.", "Master basic sushi-making tools and techniques.", "Learn to create various sushi types, from traditional to modern styles.", "Develop an appreciation for sushi's aesthetics and dining etiquette." ] }, "units": [ { "unit_title": "Unit 1: The Foundations of Sushi", "lessons": [ { "lesson_title": "Lesson 1: History and Culture of Sushi", "topics": [ { "topic": "Origins of Sushi", "content": "The history of sushi dates back centuries, originating as a method of preserving fish in fermented rice. This topic explores how sushi evolved from a preservation technique to a delicacy." }, { "topic": "Sushi in Japanese Tradition", "content": "Sushi plays a central role in Japanese cultural practices and celebrations. Understanding its place in traditional Japanese society adds depth to its appreciation." }, { "topic": "Global Spread of Sushi", "content": "From Japan to the world, sushi has been embraced and transformed by various cultures. This topic examines how sushi has adapted to local tastes globally." } ] } ] } ] }
